@@ -14,7 +14,22 @@ li a {
   color: #2A2D2C;
 }
 
-
 ul {
   list-style-type: none;
+}
+
+.asidewrapper {
+  background: #CC361A;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 25px;
+  margin-top: 380px;
+  height: 250px;
+}
+
+.projektbilleder {
+  height: 190px;
+  margin: 10px;
 }
